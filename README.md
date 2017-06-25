@@ -1,2 +1,4 @@
 # xsd2xml
-a python lightweight xml generator from a xsd
+![](http://miaozn.github.io/misc/img/xsd2xml.png)    
+
+
