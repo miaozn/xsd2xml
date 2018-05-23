@@ -1,6 +1,4 @@
 #!/usr/bin/python2.7
-# Copyright (c) Zach Miao, All rights reserved.
-# 0x0fa07 [at] gmail.com
 
 from argparse import ArgumentParser
 import xmlschema
